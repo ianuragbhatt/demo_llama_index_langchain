@@ -12,7 +12,7 @@ IPython Notebook(s) using llama_index and langchain.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [qna_flan_t5_llama_index.ipynb](https://github.com/ianuragbhatt/demo_llama_index_langchain/blob/main/qna_flan_t5_llama_index.ipynb) | 0 |
+| [qna_flan_t5_llama_index.ipynb](https://github.com/ianuragbhatt/usecases-llama-index-langchain/blob/main/qna-flan-t5-llama-index-ipynb.ipynb) | Question and Answering using `GPTVectorStoreIndex` on annual report where model is `flan-t5-large`. |
 
 
 ## credits
