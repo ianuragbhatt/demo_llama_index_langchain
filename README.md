@@ -14,11 +14,6 @@ IPython Notebook(s) using llama_index and langchain.
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [qna_flan_t5_llama_index.ipynb](https://github.com/ianuragbhatt/usecases-llama-index-langchain/blob/main/qna-flan-t5-llama-index-ipynb.ipynb) | Question and Answering using `GPTVectorStoreIndex` on annual report where model is `flan-t5-large`. |
 
-
-## credits
-
-* [Template for this repository](https://github.com/donnemartin/data-science-ipython-notebooks) by Donne Martin
-
 ## contributing
 
 Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/ianuragbhatt/demo_llama_index_langchain/issues).
